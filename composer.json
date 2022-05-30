@@ -21,8 +21,11 @@
         "drupal/core-composer-scaffold": "^9.3",
         "drupal/core-project-message": "^9.3",
         "drupal/core-recommended": "^9.3",
+        "drupal/devel": "^4.1",
         "drupal/paragraphs": "^1.14",
+        "drupal/twig_tweak": "^3.1",
         "drupal/vartheme_bs4": "^9.0",
+        "drupal/webform": "^6.2@beta",
         "drush/drush": "^11.0"
     },
     "conflict": {

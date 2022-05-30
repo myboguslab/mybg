@@ -1,0 +1,13 @@
+uuid: eb3d4d6f-1508-4b0d-9e9b-811b7b046dbd
+langcode: uk
+status: true
+dependencies:
+  module:
+    - webform
+_core:
+  default_config_hash: e1bCTp0ryXZZtnS9nlVAbtoWz3-8fmbNlqKY3GHzbsM
+id: webform_delete_action
+label: 'Видалити веб-форму'
+type: webform
+plugin: webform_delete_action
+configuration: {  }

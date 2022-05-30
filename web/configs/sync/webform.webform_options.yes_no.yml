@@ -1,0 +1,16 @@
+uuid: ca13e1df-d045-44ef-949f-8ecce84caa9b
+langcode: uk
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+_core:
+  default_config_hash: W88NYg31DbaVNQx1Uir_dwwXHVtF09QOq4VBGsH1Snk
+id: yes_no
+label: Так/Ні
+category: General
+likert: false
+options: |
+  Yes: Yes
+  No: No

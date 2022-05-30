@@ -1,0 +1,16 @@
+uuid: 77f38b63-4935-44dd-a1c7-67246098e4be
+langcode: uk
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+_core:
+  default_config_hash: WRpxpwYpfcO_i0so7BV4QXxXlbPiSVppYmAV6DAz4c0
+id: sex
+label: Стать
+category: Demographic
+likert: false
+options: |
+  Male: Male
+  Female: Female

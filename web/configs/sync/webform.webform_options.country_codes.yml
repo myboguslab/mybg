@@ -1,0 +1,14 @@
+uuid: a8af3627-c5f5-4967-809f-278c8d27c8b1
+langcode: uk
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+_core:
+  default_config_hash: adQ16YGDPk7QfUKrfrC35o2sKdHEozdNtdpiH7CftQQ
+id: country_codes
+label: 'Коди країн'
+category: Geographic
+likert: false
+options: ''
